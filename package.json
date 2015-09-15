@@ -45,6 +45,9 @@
     "url": "git://github.com/oblador/react-native-vector-icons.git"
   },
   "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  },
   "dependencies": {
     "lodash": "^3.8.0",
     "yargs": "^3.9.0"
